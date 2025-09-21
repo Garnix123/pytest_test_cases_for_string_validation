@@ -1,7 +1,7 @@
-# Lab Instructions: Writing PyTest Test Cases for String Validation
+# PyTest String Validation
 
 ### **Introduction:**
-In this lab, you will validate a string input using two specific tests: one to check the length and structure of the input string, and another to verify basic grammar rules. This will involve creating test cases using PyTest to ensure these checks are met.
+Validate a string input using two specific tests: one to check the length and structure of the input string, and another to verify basic grammar rules. This will involve creating test cases using PyTest to ensure these checks are met.
  <br><br>
 
 > ### **Tips: Before you Begin:**
@@ -84,16 +84,3 @@ Learn to create automated test cases using PyTest to validate code functionality
 - With `beta` as the input (in the bonus step), one test should fail.
 
 <br>
-
-### **Notes:**
-- **Common Issue:** Double-check that `pytest` and `spellcheck` are correctly imported.
-- **Tip:** Use `print()` statements in the functions if you need help troubleshooting the test cases.
-
-## Final Step: Let's submit your code!
-Nice work! To complete this assessment:
-- Save your file through File -> Save 
-- Select "Submit Assignment" in your Lab toolbar. 
-
-Your code will be autograded and return feedback shortly on the "Grades" tab.  
-You can also see your score in your Programming Assignment "My Submission" tab.
-<br> <br> 
